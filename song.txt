@@ -12,3 +12,5 @@ git add *
  git commit -m "Add 2 lines into song.txt"
 #Push to git all what we have :To github.com
 git push
+# Pull back the file from remote git
+git pull
