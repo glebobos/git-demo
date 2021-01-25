@@ -14,3 +14,7 @@ git add *
 git push
 # Pull back the file from remote git
 git pull
+#try to use gui 
+git gui&
+rollback
+dffdf
