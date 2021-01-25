@@ -4,3 +4,11 @@ git config --global user.email "gle605@gmail.com"
 
 #Clone repository 
  git clone git@github.com:glebobos/git-demo.git
+# Give status in local repository
+git status
+# use "git add <file>..." to include in what will be committed)
+git add *
+# Add commit from local repository
+ git commit -m "Add 2 lines into song.txt"
+#Push to git all what we have :To github.com
+git push
