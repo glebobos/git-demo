@@ -16,4 +16,4 @@ git push
 git pull
 #try to use gui 
 git gui&
----------------------2
+---------------------
