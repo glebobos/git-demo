@@ -16,5 +16,4 @@ git push
 git pull
 #try to use gui 
 git gui&
-rollback
-dffdf
+_____________________---------------
